@@ -63,7 +63,7 @@ export default function Leaderboard() {
     <div className="flex flex-col w-full min-h-screen">
       <header className="bg-gray-100 dark:bg-gray-900 py-6 px-4 md:px-6">
         <div className="container mx-auto">
-          <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">Leaderboard</h1>
+          <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">HMFT-ITB Attendance Leaderboard</h1>
         </div>
       </header>
       <main className="flex-1 py-8 px-4 md:px-6">
